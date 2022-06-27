@@ -1,0 +1,11 @@
+Customer Details
+------------------
+Name:j.kjs
+Phone No.:62646
+Address:mjhas,
+Check-IN Date(YYYY-MM-DD):2020-12-10
+Check-OUT Date(YYYY-MM-DD):2020-12-30
+Room-Type:AC 3-Bed
+Price-5000Room No:393
+Customer ID:47
+  
